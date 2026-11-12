@@ -76,7 +76,7 @@ PassVault/
 brew install python@3.11 python-tk@3.11
 
 # 2. Cloner le dépôt et entrer dans le dossier
-git clone https://github.com/android-varx/PassVault.git
+git clone https://github.com/andrei-vartiuc/PassVault.git
 cd PassVault
 
 # 3. Créer et activer l'environnement virtuel
@@ -99,7 +99,7 @@ python run.py
 sudo apt-get update && sudo apt-get install python3-tk python3-venv git
 
 # 2. Cloner et préparer l'environnement
-git clone https://github.com/android-varx/PassVault.git
+git clone https://github.com/andrei-vartiuc/PassVault.git
 cd PassVault
 
 python3 -m venv venv
@@ -116,7 +116,7 @@ python run.py
 
 ```powershell
 # 1. Cloner le projet
-git clone https://github.com/android-varx/PassVault.git
+git clone https://github.com/andrei-vartiuc/PassVault.git
 cd PassVault
 
 # 2. Créer et activer l'environnement virtuel
